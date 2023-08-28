@@ -1,3 +1,3 @@
-ezloss
-high school
+ezloss,
+high school,
 ezloss@proton.me
